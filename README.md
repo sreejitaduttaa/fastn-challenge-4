@@ -1,4 +1,4 @@
 # Overview
-This is an expander UI  built with fastn.
+This is a submission form page built with fastn.
 
-It's Challenge 4 of the fastn champions challenge!
+It's Challenge 8 of the fastn champions challenge!
